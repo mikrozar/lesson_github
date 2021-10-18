@@ -7,7 +7,6 @@ public class Scaner {
             System.out.println("Введите первый операнд:");
             int operand1 = scanner.nextInt();
             System.out.println(operand1);
-            //
         }
     }
 }
